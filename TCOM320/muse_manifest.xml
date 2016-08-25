@@ -1,0 +1,81 @@
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1414700993169">
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="25591976" ref="phone>contact-us:phone>alumni-shorts:phone>faculty-reports:phone>from-the-top:phone>index:phone>alumni-features"/>
+      <file name="contact-us.css" crc="4024912618" ref="phone>contact-us"/>
+      <file name="alumni-shorts.css" crc="4024912618" ref="phone>alumni-shorts"/>
+      <file name="faculty-reports.css" crc="4024912618" ref="phone>faculty-reports"/>
+      <file name="from-the-top.css" crc="4024912618" ref="phone>from-the-top"/>
+      <file name="index.css" crc="4024912618" ref="phone>index"/>
+      <file name="alumni-features.css" crc="4024912618" ref="phone>alumni-features"/>
+    </folder>
+    <file name="index.html" crc="3844031957" mt="1414700063826" redirect="true"/>
+    <file name="alumni-features.html" crc="3860438493" mt="1414700063826" redirect="true"/>
+    <file name="alumni-shorts.html" crc="4235581718" mt="1414700063827" redirect="true"/>
+    <file name="faculty-reports.html" crc="30549849" mt="1414700063828" redirect="true"/>
+    <file name="from-the-top.html" crc="167573827" mt="1414700063828" redirect="true"/>
+    <file name="contact-us.html" crc="4255910228" mt="1414700063829" redirect="true"/>
+  </folder>
+  <folder name="images">
+    <file name="w_logo_white.png" crc="3978161724" ref="tablet>index:tablet>alumni-features:tablet>alumni-shorts:tablet>faculty-reports:tablet>from-the-top:tablet>contact-us"/>
+    <file name="w_logo_white_2x.png" crc="248425775" ref="tablet>index:tablet>alumni-features:tablet>alumni-shorts:tablet>faculty-reports:tablet>from-the-top:tablet>contact-us"/>
+    <file name="wordmark_center_white233x16.png" crc="4207220123" ref="tablet>index"/>
+    <file name="wordmark_center_white233x16_2x.png" crc="436129504" ref="tablet>index"/>
+    <file name="u218-4.png" crc="3777130357" ref="tablet>index:tablet>alumni-features:tablet>alumni-shorts:tablet>faculty-reports:tablet>from-the-top:tablet>contact-us"/>
+    <file name="u218-4_2x.png" crc="505664164" ref="tablet>index:tablet>alumni-features:tablet>alumni-shorts:tablet>faculty-reports:tablet>from-the-top:tablet>contact-us"/>
+    <file name="w_logo_white112x76.png" crc="504945787" ref="index"/>
+    <file name="w_logo_white112x76_2x.png" crc="4115878449" ref="index"/>
+    <file name="wordmark_center_white.png" crc="399427748" ref="index:alumni-features:alumni-shorts:faculty-reports:from-the-top:contact-us"/>
+    <file name="wordmark_center_white_2x.png" crc="3896954704" ref="index:alumni-features:alumni-shorts:faculty-reports:from-the-top:contact-us"/>
+    <file name="u91-4.png" crc="3957581541" ref="index:alumni-features:alumni-shorts:faculty-reports:from-the-top:contact-us"/>
+    <file name="u91-4_2x.png" crc="83996805" ref="index:alumni-features:alumni-shorts:faculty-reports:from-the-top:contact-us"/>
+    <file name="w_logo_white79x54.png" crc="4283991251" ref="phone>index"/>
+    <file name="w_logo_white79x54_2x.png" crc="366158230" ref="phone>index"/>
+    <file name="u619-14.png" crc="3843660282" ref="index:alumni-features:alumni-shorts:faculty-reports:from-the-top:contact-us"/>
+    <file name="u619-14_2x.png" crc="3994758780" ref="index:alumni-features:alumni-shorts:faculty-reports:from-the-top:contact-us"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="522851948" ref="tablet>index:tablet>alumni-features:tablet>contact-us:tablet>from-the-top:tablet>alumni-shorts:tablet>faculty-reports"/>
+      <file name="index.css" crc="3856047437" ref="tablet>index"/>
+      <file name="alumni-features.css" crc="3856047437" ref="tablet>alumni-features"/>
+      <file name="contact-us.css" crc="3856047437" ref="tablet>contact-us"/>
+      <file name="from-the-top.css" crc="3856047437" ref="tablet>from-the-top"/>
+      <file name="alumni-shorts.css" crc="3856047437" ref="tablet>alumni-shorts"/>
+      <file name="faculty-reports.css" crc="3856047437" ref="tablet>faculty-reports"/>
+    </folder>
+    <file name="index.html" crc="124961149" mt="1414698543578" redirect="true"/>
+    <file name="alumni-features.html" crc="4156587024" mt="1414698543578" redirect="true"/>
+    <file name="alumni-shorts.html" crc="3858071394" mt="1414698543579" redirect="true"/>
+    <file name="faculty-reports.html" crc="352985552" mt="1414698543579" redirect="true"/>
+    <file name="from-the-top.html" crc="3983624050" mt="1414698543579" redirect="true"/>
+    <file name="contact-us.html" crc="4137529020" mt="1414698543580" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="365011649"/>
+    <file name="index.css" crc="4243329595" ref="index"/>
+    <file name="master_a-master.css" crc="4214801385" ref="contact-us:alumni-features:faculty-reports:index:alumni-shorts:from-the-top"/>
+    <file name="contact-us.css" crc="4243329595" ref="contact-us"/>
+    <file name="alumni-features.css" crc="4243329595" ref="alumni-features"/>
+    <file name="faculty-reports.css" crc="4243329595" ref="faculty-reports"/>
+    <file name="alumni-shorts.css" crc="4243329595" ref="alumni-shorts"/>
+    <file name="from-the-top.css" crc="4243329595" ref="from-the-top"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:tablet>index:tablet>alumni-features:tablet>alumni-shorts:tablet>faculty-reports:tablet>from-the-top:tablet>contact-us:alumni-features:alumni-shorts:faculty-reports:from-the-top:contact-us:phone>index:phone>alumni-features:phone>alumni-shorts:phone>faculty-reports:phone>from-the-top:phone>contact-us"/>
+    <file name="museutils.js" crc="3777594392" ref="index:tablet>index:tablet>alumni-features:tablet>alumni-shorts:tablet>faculty-reports:tablet>from-the-top:tablet>contact-us:alumni-features:alumni-shorts:faculty-reports:from-the-top:contact-us:phone>index:phone>alumni-features:phone>alumni-shorts:phone>faculty-reports:phone>from-the-top:phone>contact-us"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="index:tablet>index:tablet>alumni-features:tablet>alumni-shorts:tablet>faculty-reports:tablet>from-the-top:tablet>contact-us:alumni-features:alumni-shorts:faculty-reports:from-the-top:contact-us:phone>index:phone>alumni-features:phone>alumni-shorts:phone>faculty-reports:phone>from-the-top:phone>contact-us"/>
+    <file name="pie.js" crc="3827607177" ref="tablet>index:index"/>
+    <file name="jquery.musemenu.js" crc="415733523" ref="tablet>index:tablet>alumni-features:tablet>alumni-shorts:tablet>faculty-reports:tablet>from-the-top:tablet>contact-us:index:alumni-features:alumni-shorts:faculty-reports:from-the-top:contact-us:phone>index:phone>alumni-features:phone>alumni-shorts:phone>faculty-reports:phone>from-the-top:phone>contact-us"/>
+    <file name="html5shiv.js" crc="4241844378" ref="tablet>index:tablet>alumni-features:tablet>alumni-shorts:tablet>faculty-reports:tablet>from-the-top:tablet>contact-us:index:alumni-features:alumni-shorts:faculty-reports:from-the-top:contact-us:phone>index:phone>alumni-features:phone>alumni-shorts:phone>faculty-reports:phone>from-the-top:phone>contact-us"/>
+    <file name="museredirect.js" crc="17485671" ref="index:alumni-features:alumni-shorts:faculty-reports:from-the-top:contact-us"/>
+    <file name="webpro.js" crc="474087315" ref="phone>index:phone>alumni-features:phone>alumni-shorts:phone>faculty-reports:phone>from-the-top:phone>contact-us"/>
+    <file name="musewpdisclosure.js" crc="3952359668" ref="phone>index:phone>alumni-features:phone>alumni-shorts:phone>faculty-reports:phone>from-the-top:phone>contact-us"/>
+  </folder>
+  <file name="index.html" crc="232223609" mt="1414700942707" redirect="true"/>
+  <file name="alumni-features.html" crc="4137593959" mt="1414700942707" redirect="true"/>
+  <file name="alumni-shorts.html" crc="336710391" mt="1414700942708" redirect="true"/>
+  <file name="faculty-reports.html" crc="4143353214" mt="1414700942708" redirect="true"/>
+  <file name="from-the-top.html" crc="434531716" mt="1414700942709" redirect="true"/>
+  <file name="contact-us.html" crc="427349939" mt="1414700942709" redirect="true"/>
+</manifest>
